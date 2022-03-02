@@ -1,1 +1,1 @@
-This is the second time coding for shell navigation
+This is my second time to code shell
