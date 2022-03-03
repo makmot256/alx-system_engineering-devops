@@ -1,1 +1,1 @@
-This is my second time to code shell
+ **This is a command to print the path of the working directory**
